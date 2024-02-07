@@ -27,6 +27,8 @@ int main()
         }
         nguesses++;
     }while(guess!=number);
+
+    printf("This is just trial.....");
     
     return 0;
 }
